@@ -1,7 +1,7 @@
 #Daniel Minor
 #10/14/16
 #Principle of Computer Organization
-#Assembly Assignment 3F: ibonacci
+#Assembly Assignment 3: Fibonacci
 
 #int fibonacci( int whichOne)
 #{
